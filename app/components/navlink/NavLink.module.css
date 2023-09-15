@@ -1,0 +1,12 @@
+.text{
+    text-decoration: none !important;
+    color: #dedede;
+}
+
+.text:hover{
+    background-color: #dedede;
+    color: #212121;
+    border-radius: 6px;
+    width: 70%;
+    transition: 0.8s;
+}
