@@ -10,12 +10,7 @@ export default function Home() {
   <Header />
   <h2>Home Page</h2>
   
-    <div>
-      <h2>Dados Pessoais</h2>
-      <p>Nome: <span>Felipe</span> </p>
-      <p>Idade: <span>16</span> </p>
-      <p>CPF: <span>098.897.567-10</span> </p>
-    </div>
+  <p>Aqui é a página 1</p>
     </main>
     <Footer />
 

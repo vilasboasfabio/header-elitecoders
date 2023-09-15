@@ -9,6 +9,8 @@ function Teste(){
             <Header />
             <main className={styles.content}>
             <h2>Teste</h2>
+
+            <p>Aqui é a página 2</p>
             </main>
      
 
