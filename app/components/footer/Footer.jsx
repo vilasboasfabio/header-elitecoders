@@ -3,7 +3,7 @@
 import styles from './footer.module.css';
 
 
- const Teste = () =>{
+ const Footer = () =>{
     return (
         <div className={styles.footer}>
             <section className={styles.texts}>
@@ -33,5 +33,5 @@ import styles from './footer.module.css';
     )
 }
 
-export default Teste;
+export default Footer;
 
