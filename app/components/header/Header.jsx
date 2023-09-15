@@ -20,7 +20,7 @@ const Header = () => {
           
         </div>
         <div className={styles.div_img}>
-        <Image src="/logo.jpeg" alt="Logo" width={200} height={80} />
+        <Image src="/aaaa.jpeg" alt="Logo" width={100} height={50} className={styles.logo} />
         </div>
         <div className={styles.links1}>
             <NavLink rota={'/'} texto={'Exemplo'} />

@@ -5,8 +5,8 @@
     justify-content: space-between;
     align-items: center;
     padding: 0px 20px;
-    background-color: #1e1e1e;
-    height: 60px;
+    background-color: #151515;
+    height: 80px;
     color: #fff;
    
 
@@ -62,4 +62,7 @@
     width: 200px;
     margin-left: auto;
     margin-right: auto;
+}
+.logo{
+   margin-left: 9%;
 }
